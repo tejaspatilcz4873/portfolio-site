@@ -7,11 +7,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "trickle-react": "^1.0.0"
-  },
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "framer-motion": "^10.16.4"
+},
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.0",
