@@ -6,9 +6,7 @@ const PortfolioApp = () => {
 
   // 👉 Add repos you want to showcase here
   const repoList = [
-    { user: "USERNAME", name: "python-notes" },
-    { user: "USERNAME", name: "networking-handbook" },
-    { user: "USERNAME", name: "aws-data-pipelines" },
+    { user: "tejaspatilcz4873", name: "Resources" },
   ];
 
   useEffect(() => {
@@ -148,10 +146,10 @@ const PortfolioApp = () => {
         <TrickleItem>
           <section id="contact" className="p-20 text-center">
             <h2 className="text-3xl font-semibold">Let’s Connect</h2>
-            <p className="mt-4">📧 your.email@example.com</p>
+            <p className="mt-4">📧 tejaspatilcz4873@yahoo.com</p>
             <div className="mt-6 space-x-4">
               <a href="https://linkedin.com/in/tejaspatil4873" className="text-blue-600 hover:underline">LinkedIn</a>
-              <a href="https://github.com/USERNAME" className="text-blue-600 hover:underline">GitHub</a>
+              <a href="https://github.com/tejaspatilcz4873" className="text-blue-600 hover:underline">GitHub</a>
             </div>
           </section>
         </TrickleItem>
